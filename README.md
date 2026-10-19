@@ -2,8 +2,7 @@
 A curated list of guides, GPX tracks, weather models, safety protocols, and tools for high-altitude climbing in the Andes &amp; Atacama Desert.
 
 
-```markdown
-<div align="center">
+
 
 # Awesome Andes & Atacama Mountaineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -229,4 +228,4 @@ Maintained and curated by the mountain guiding team at **[Vulcano Expediciones](
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this list provided that credit and attribution link are given to the original repository and maintainer.
-```
+
