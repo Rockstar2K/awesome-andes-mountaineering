@@ -9,7 +9,7 @@ A curated list of guides, GPX tracks, weather models, safety protocols, and tool
 
 > A curated list of resources, GPX tracks, weather models, altitude medicine protocols, and tools for high-altitude trekking and volcanic ascents in the Andes, with a focus on the Atacama Desert and Northern Chile.
 
-[Contributing](CONTRIBUTING.md) • [License](LICENSE) • [Website](https://vulcano.cl)
+[Contributing](CONTRIBUTING.md) • [License](LICENSE) • [Website](https://vulcanoexpediciones.com)
 
 </div>
 
