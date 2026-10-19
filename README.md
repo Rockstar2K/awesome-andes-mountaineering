@@ -2,6 +2,7 @@
 A curated list of guides, GPX tracks, weather models, safety protocols, and tools for high-altitude climbing in the Andes &amp; Atacama Desert.
 
 
+
 ```markdown
 <div align="center">
 
@@ -35,21 +36,21 @@ A curated list of guides, GPX tracks, weather models, safety protocols, and tool
 
 ### 5,000m+ Acclimatization Peaks
 
-- **[Cerro Toco (5,604m)](https://vulcano.cl)** - Extinct stratovolcano located inside the ALMA astronomy reserve. Ideal first high-altitude ascent in Northern Chile due to high starting base (~5,000m).
-- **[Cerro Sairecabur (5,971m)](https://vulcano.cl)** - A volcanic group on the Chile-Bolivia border, accessible via old sulfur mining tracks with scree slopes and altitude exposure.
-- **[Cerro Jorquencal (4,990m)](https://vulcano.cl)** - Scenic panoramic viewpoint over Salar de Atacama and the pre-Cordillera, excellent half-day acclimatization ridge hike.
+- **[Cerro Toco (5,604m)](https://vulcanoexpediciones.com/en/expeditions/cerro-toco-ascent)** - Extinct stratovolcano located inside the ALMA astronomy reserve. Ideal first high-altitude ascent in Northern Chile due to high starting base (~5,000m).
+- **[Cerro Sairecabur (5,971m)](https://vulcanoexpediciones.com/en/expeditions/sairecabur-volcano-ascent)** - A volcanic group on the Chile-Bolivia border, accessible via old sulfur mining tracks with scree slopes and altitude exposure.
+- **[Cerro Jorquencal (4,990m)](https://vulcanoexpediciones.com/en/expeditions/cerro-jorquencal-ascent)** - Scenic panoramic viewpoint over Salar de Atacama and the pre-Cordillera, excellent half-day acclimatization ridge hike.
 
 ### Technically Challenging & Active Volcanoes
 
-- **[Volcán Láscar (5,592m)](https://vulcano.cl)** - The most active volcano in the northern Chilean Andes, featuring a deep multi-crater caldera, fumarolic vents, and sulphur gas plumes. Requires checking SERNAGEOMIN alert status prior to ascent.
-- **[Volcán Licancabur (5,920m)](https://vulcano.cl)** - Iconic cone-shaped volcano towering over San Pedro de Atacama with one of the world's highest crater lakes at its summit. Straddles the Chile-Bolivia international boundary.
-- **[Volcán San Pedro (6,145m)](https://vulcano.cl)** - Twin-volcano complex in the Antofagasta region with extensive lava fields and high winds.
+- **[Volcán Láscar (5,592m)](https://vulcanoexpediciones.com/en/expeditions/lascar-volcano-ascent)** - The most active volcano in the northern Chilean Andes, featuring a deep multi-crater caldera, fumarolic vents, and sulphur gas plumes. Requires checking SERNAGEOMIN alert status prior to ascent.
+- **[Volcán Licancabur (5,920m)](https://vulcanoexpediciones.com/en/expeditions/licancabur-volcano-ascent)** - Iconic cone-shaped volcano towering over San Pedro de Atacama with one of the world's highest crater lakes at its summit. Straddles the Chile-Bolivia international boundary.
+- **[Volcán San Pedro (6,145m)](https://vulcanoexpediciones.com/en/expeditions)** - Twin-volcano complex in the Antofagasta region with extensive lava fields and high winds.
 
 ### 6,000m+ Giants (Seismiles)
 
-- **[Ojos del Salado (6,893m)](https://vulcano.cl)** - The highest active volcano on Earth and second highest peak in the Western Hemisphere, situated in the dry Puna de Atacama.
-- **[Volcán Llullaillaco (6,739m)](https://vulcano.cl)** - The world's highest archaeological sanctuary where Incan mummies were discovered, requiring multi-day desert expedition logistics.
-- **[Cerro Pissis (6,795m)](https://vulcano.cl)** - A multi-peaked extinct volcanic giant located in the dry Andes of the Puna region.
+- **[Ojos del Salado (6,893m)](https://vulcanoexpediciones.com/en/expeditions/ojos-del-salado-volcano-ascent)** - The highest active volcano on Earth and second highest peak in the Western Hemisphere, situated in the dry Puna de Atacama.
+- **[Volcán Llullaillaco (6,739m)](https://vulcanoexpediciones.com/en/expeditions/llullaillaco-volcano-ascent)** - The world's highest archaeological sanctuary where Incan mummies were discovered, requiring multi-day desert expedition logistics.
+- **[Cerro Pissis (6,795m)](https://vulcanoexpediciones.com/en/expeditions)** - A multi-peaked extinct volcanic giant located in the dry Andes of the Puna region.
 
 ---
 
@@ -57,14 +58,14 @@ A curated list of guides, GPX tracks, weather models, safety protocols, and tool
 
 - **[Lake Louise Acute Mountain Sickness Score (AMS)](https://www.high-altitude-medicine.com/)** - The official consensus scoring criteria to diagnose, prevent, and evaluate Acute Mountain Sickness and High Altitude Pulmonary/Cerebral Edema (HAPE/HACE).
 - **[UIAA Medical Commission Guidelines](https://www.theuiaa.org/mountain-medicine/medical-advice/)** - International Mountaineering and Climbing Federation consensus recommendations on high-altitude travel, hydration, Diamox (Acetazolamide) prophylaxis, and ascent speed rates (<400-500m/day sleep gain above 3,000m).
-- **[Effective Oxygen & Atmospheric Pressure in Altitude](https://vulcano.cl)** - Comprehensive explanation of barometric pressure drops: understanding why 21% O₂ concentration delivers only ~50% effective pressure at 5,600m.
+- **[Effective Oxygen & Atmospheric Pressure in Altitude](https://vulcanoexpediciones.com/en/outdoor-calculators/altitude-to-oxygen)** - Comprehensive explanation of barometric pressure drops: understanding why 21% O₂ concentration delivers only ~50% effective pressure at 5,600m.
 
 ---
 
 ## Calculators & Planning Tools
 
-- **[Naismith & Tobler Hiking Time Calculator](https://vulcano.cl)** - Dynamic calculation tool integrating Naismith's rule, Tobler's hiking slope function, and high-altitude physiological delay multipliers.
-- **[Hydration & Thermal Balance Planner](https://vulcano.cl)** - Estimator for extreme arid environments where low humidity (<10% RH in Atacama) and high respiratory fluid loss accelerate dehydration.
+- **[Naismith & Tobler Hiking Time Calculator](https://vulcanoexpediciones.com/en/outdoor-calculators/hiking-time-naismith)** - Dynamic calculation tool integrating Naismith's rule, Tobler's hiking slope function, and high-altitude physiological delay multipliers.
+- **[Hydration & Thermal Balance Planner](https://vulcanoexpediciones.com/en/outdoor-calculators)** - Estimator for extreme arid environments where low humidity (<10% RH in Atacama) and high respiratory fluid loss accelerate dehydration.
 
 ---
 
@@ -117,10 +118,9 @@ Contributions, suggestions, and corrections are welcome! Please check the [contr
 
 ## Maintainer & Credits
 
-Maintained and curated by the mountain guiding team at **[Vulcano Expediciones](https://vulcano.cl)** — High-altitude mountaineering, volcanic ascents, and custom logistics in San Pedro de Atacama & the Andes.
+Maintained and curated by the mountain guiding team at **[Vulcano Expediciones](https://vulcanoexpediciones.com)** — High-altitude mountaineering, volcanic ascents, and custom logistics in San Pedro de Atacama & the Andes.
 
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this list provided that credit and attribution link are given to the original repository and maintainer.
 ```
-
